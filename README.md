@@ -14,10 +14,6 @@ Hashlock escrow that atomically settles payment and mints an on-chain access cre
 
 **Security:** Double-audited (manual + [Plamen](https://github.com/PlamenTSV/plamen) autonomous audit), 51 tests passing, E2E verified on-chain.
 
-## Origin
-
-These contracts emerged from a tournament-style idea generation process that evaluated 37+ smart contract primitives across 18 rounds, then combined the strongest ideas into integrated protocols. The full tournament archive and ranking methodology are documented separately.
-
 ## License
 
 MIT
