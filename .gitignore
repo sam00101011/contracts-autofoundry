@@ -1,0 +1,14 @@
+# Foundry
+out/
+cache/
+broadcast/
+
+# Env
+.env
+.env.*
+
+# Plamen scratchpad
+.plamen_scratchpad/
+
+# OS
+.DS_Store

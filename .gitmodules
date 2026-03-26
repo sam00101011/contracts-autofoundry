@@ -1,0 +1,3 @@
+[submodule "atomic-pay-for-access/lib/forge-std"]
+	path = atomic-pay-for-access/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
